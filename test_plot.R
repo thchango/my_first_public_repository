@@ -6,4 +6,4 @@ y <- 11:20
 
 plot(x,y)
 
-print("Hello world2")
+print("Hello world")
