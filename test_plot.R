@@ -7,3 +7,5 @@ y <- 11:20
 plot(x,y)
 
 print("Hello world")
+
+x <- x^2
